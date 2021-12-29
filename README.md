@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebaxd123
+- 👋 Hi, I’m Sebastian
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning python(django)
 <!---
